@@ -22,6 +22,14 @@ git push -u origin master (envia o repositorio para a nuvem).
 
 git log / shortlog (mostra todos os commits).
 
+-- Desfazendo coisas
+
+git diff (mostra a diferença entre o arquivo antigo e o editado)
+
+git checkout "Nome do arquivo" (retorna para antes da edição)
+
+git reset --soft (volta para o commit anterior) --mixed --hard (remove completamente o commit) "codigo hash do commit anterior".
+
 -- Branchs
 
 git branch (mostra todas as branchs no repositorio.)

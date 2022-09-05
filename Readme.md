@@ -1,7 +1,7 @@
 # Github
 
-Arquivo da aula de git para iniciantes.
+Este é um repoistoria para ensinar como o Git funciona!
 
-Modificando arquivo dentro do repositorio.
+Esta linha serve como exemplo para modificações no arquivo a ser add.
 
-Bye Bye Hello World!!!
+Hello World... Again!

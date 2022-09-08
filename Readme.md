@@ -18,6 +18,8 @@ git add (prepara os arquivos para serem commitados).
 
 git commit -m "Texto informativo sobre o Commit".
 
+git remote add origin *endereço de um repositório github. (estabelece para onde deve ser enviado).
+
 git push -u origin master (envia o repositorio para a nuvem).
 
 git log / shortlog (mostra todos os commits).
